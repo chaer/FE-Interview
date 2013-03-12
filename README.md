@@ -114,4 +114,7 @@
 
     参考答案：“不响应设计”是因为 JavaScript 被禁用了。
 
-<正经的面试参考：[Front-end Job Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions "Front-end Job Interview Questions")
+------------------------------------
+
+**正经的面试参考：**    
+[Front-end Job Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions "Front-end Job Interview Questions")
