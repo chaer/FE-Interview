@@ -71,18 +71,31 @@
 
     参考答案：擦，直接减分吧......
     
-2.  简单说下清除浮动的 N 种理由和 N 种方法，
+2.  简单说下清除浮动的 N 种理由和 N 种方法的其中一种。
     
     
 
 3.  说说你不会的 CSS hacks 吧。
     
-    
+    参考答案：...放弃（-1 分）
 
 4.  传说多少个 Class 可以干掉一个 Id?
     
     参考答案：256 [Extreme specificity overriding a CSS ID with 256 chained Classes](http://www.thecssninja.com/css/extreme-specificity )
     
+5.  说说在 IE6 中如何模拟 CSS3 的一些高级效果（要求一模一样）。
+    
+    参考答案：放弃（-1 分）
+
+6.  根据你掌握的 CSS 定位知识连线。
+    
+    绝对定位&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>position : relative;</code> 
+
+    相对定位&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>float : left;</code> 
+    
+    浮动定位&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>position : fixed;</code> 
+    
+    固定定位&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>position : absolute;</code>
 
 
 ##JavaScript 相关问题
