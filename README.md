@@ -70,6 +70,19 @@
 1.  你用过几种 IE，如何兼容 IE 5.5 及以下版本？
 
     参考答案：擦，直接减分吧......
+    
+2.  简单说下清除浮动的 N 种理由和 N 种方法，
+    
+    
+
+3.  说说你不会的 CSS hacks 吧。
+    
+    
+
+4.  传说多少个 Class 可以干掉一个 Id?
+    
+    参考答案：256 [Extreme specificity overriding a CSS ID with 256 chained Classes](http://www.thecssninja.com/css/extreme-specificity )
+    
 
 
 ##JavaScript 相关问题
@@ -98,6 +111,9 @@
 
     参考答案：催着上线，用户反馈测试吧（有时候也挨骂...）
 
+7.  完型填空： Brendan Eich and Doug Crockford are JavaScript's ________。
+
+    
 
 ##综合题
 
