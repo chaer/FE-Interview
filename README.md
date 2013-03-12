@@ -88,14 +88,7 @@
     参考答案：地狱模式（1条命，死了重玩啊......）
 
 5.  矩阵问题：3秒内说出矩阵内有多少个0，多少个1？
-    [ 0 1 0 1 1 0 0 1 
-      1 0 1 1 0 1 1 0
-      1 1 0 0 1 0 1 0
-      0 0 1 0 0 1 0 1
-      1 1 1 1 1 1 1 1
-      0 0 0 0 0 0 0 0
-      1 0 1 0 1 0 1 0
-      0 1 0 1 0 1 0 1 ]
+    <img alt="矩阵" src="./matrix.png">
 
 6.  你都使用哪些工具测试代码的性能？
 
@@ -121,4 +114,4 @@
 
     参考答案：“不响应设计”是因为 JavaScript 被禁用了。
 
-
+<正经的面试参考：[Front-end Job Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions "Front-end Job Interview Questions")
