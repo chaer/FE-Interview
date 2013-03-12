@@ -45,8 +45,10 @@
 
 ##HTML 相关问题
 
-1.  完整写出几种常用的 DOCTYPE？
-比如：<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+1.  完整写出几种常用的 DOCTYPE？    
+    比如：
+    <pre><code>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+    </code></pre>
 
     参考答案：（平时都是复制粘贴或自动生成的吧？哈哈）答不上来不扣分
 
@@ -89,6 +91,7 @@
     参考答案：地狱模式（1条命，死了重玩啊......）
 
 5.  矩阵问题：3秒内说出矩阵内有多少个0，多少个1？
+    
     <img alt="矩阵" src="./matrix.png">
 
 6.  你都使用哪些工具测试代码的性能？
