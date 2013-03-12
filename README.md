@@ -62,7 +62,7 @@
 
 4.  写一个最简洁，最兼容的 HTML 结构。
 
-    参考答案：<html></html>
+    参考答案：<code>&lt;html&gt;&lt;/html&gt;</code>
 
 
 ##CSS 相关问题
