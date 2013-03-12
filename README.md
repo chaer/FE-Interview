@@ -7,7 +7,7 @@
 >真实目的：立志考倒各种资深前端、架构师、专家，为博大家一乐，不要当真，呵呵~
 >面试题总分100分，初始分值100分，请谨慎作答。
 
-一般问题
+##一般问题
 
 1.  你用 Twitter ，Facebook 吗，都关注哪些人？
 
@@ -42,7 +42,7 @@
     参考答案：没打过他们...（打过产品经理的 -10 分）
 
 
-HTML 相关问题
+##HTML 相关问题
 
 1.    完整写出几种常用的 DOCTYPE？
 比如：<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -62,14 +62,14 @@ HTML 相关问题
 参考答案：<html></html>
 
 
-CSS 相关问题
+##CSS 相关问题
 
 1.    你用过几种 IE，如何兼容 IE 5.5 及以下版本？
 
 参考答案：擦，直接减分吧......
 
 
-JavaScript 相关问题
+##JavaScript 相关问题
 
 1.    你使用过哪些 JavaScript 库，它们的作者是谁？
 
@@ -103,7 +103,7 @@ JavaScript 相关问题
 参考答案：催着上线，用户反馈测试吧（有时候也挨骂...）
 
 
-综合题
+##综合题
 
 1.    请说出 N 种降低页面加载时间的方法。
 
